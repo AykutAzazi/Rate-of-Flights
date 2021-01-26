@@ -1,4 +1,4 @@
-## Rate of Flights
+# Rate of Flights
 The aim of project is to determine the most punctual airlines in US according to 2015 flight records.
 
 ### The Scenario of Project
